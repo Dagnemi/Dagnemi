@@ -1,0 +1,5 @@
+- Hi, I’m @Dagnemi but you can call me Dag
+- I’m new in the coding
+- i speak Portuguese(First language) and English(second)
+- you can find me in discord with Dag#4443
+- i know: python and java 
